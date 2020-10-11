@@ -1,0 +1,4 @@
+# Twitter_Sentiment-Analysis
+Final year Project in Bachelor's
+
+Sentiment analysis is extremely useful in social media monitoring as it allows us to gain an overview of the wider public opinion behind certain topics. With the popularity of social media, people are used to share their daily activities and interacting with friends on social media platforms, making it feasible to leverage online social network data for content detection. We employ a large-scale dataset from real-world social platform (Twitter) to systematically extract the different features. Based on the features extracted, we build various machine learning models on it and then finetune the model to come to the conclusion that which algorithm and feature set perfectly covers all the aspects of the analysis by comparing the f1-scores based on the report prepared. With the obtained result, analysis can be done directly to the raw data received from the Twitter.
